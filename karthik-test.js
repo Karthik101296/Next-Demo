@@ -4,7 +4,7 @@ import React from 'react'
 function Click() {
     return (
         <div>
-            <h1 class="heading">Hi Bro...!!!</h1>
+            <h1 class="heading">Hello World!!!</h1>
         </div>
     )
 }
